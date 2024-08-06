@@ -48,6 +48,3 @@ my_LinkedList.get(9)
 my_LinkedList.reverse()
 
 print(my_LinkedList)
-
-
-
